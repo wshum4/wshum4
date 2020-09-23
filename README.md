@@ -5,6 +5,6 @@ I am an ex-aviation professional and private jet charter broker that decided to 
 - 🔭 I’m currently working on a personal project with a friend on sustainable and eco shopping.
 - 👩🏻‍💻 I’m currently learning and improving on my JavaScript skills. I want to look into React once I am done.
 - 💬 Ask me about anything, aviation, jets, my travel journeys, why I ended up in coding
-- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/winceshum), [Twitter](https://twitter.com/wshum_) (Be warned: I rarely use this though!)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/winceshum), [Twitter](https://twitter.com/wshum_) (Be warned: I rarely use this though!)
 - ⚡️ Fun fact: I accidentally moved home back to Canada, reason behind this is COVID 😯
 
